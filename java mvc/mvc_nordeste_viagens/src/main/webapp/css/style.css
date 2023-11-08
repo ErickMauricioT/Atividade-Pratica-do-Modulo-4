@@ -1,0 +1,66 @@
+.taxas {
+  background-color: #00ff66;
+  border-style: ridge;
+}
+
+.navbar {
+  background-color: #007bff;
+}
+.navbar-brand h1 {
+  font-weight: bold;
+  color: white;
+}
+.navbar-light .navbar-toggler-icon {
+  background-color: white;
+}
+/* Login */
+.login-form {
+  background-color: #e7f3ff;
+  padding: 20px;
+  margin-top: 20px;
+  border-radius: 10px;
+}
+.login-form label,
+.login-form input,
+.login-form button {
+  margin-top: 10px;
+}
+
+.main-content {
+  background-color: rgba(233, 248, 241, 0.2);
+  padding: 20px;
+  border-radius: 10px;
+}
+/* Footer */
+footer {
+  background-color: #007bff;
+  padding: 20px 0;
+  color: white;
+}
+/* Carousel */
+.carousel-inner img {
+  width: 100%;
+  height: auto;
+}
+/* Card */
+.card-title {
+  font-weight: bold;
+}
+
+main {
+  background-size: cover;
+  background-attachment: fixed;
+  background-position: center center;
+  background-repeat: no-repeat;
+}
+
+.cadlogin {
+  color: #030303;
+  text-decoration: blink;
+  font-size: 1.2em;
+}
+a {
+  color: #5c05fd;
+  text-decoration: blink;
+  font-size: 1em;
+}
